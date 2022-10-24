@@ -1,5 +1,7 @@
 # Desafio PetShop
 
+![preview](./.github/preview.jpeg)
+
 ## 💻 Projeto
 
 Site de apresentação de um PetShop
